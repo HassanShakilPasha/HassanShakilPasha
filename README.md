@@ -1,3 +1,14 @@
+
+<h1 align="center">Hassan Shakil Pasha</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=C9A66B&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Flutter+Developer;AI+%26+Automation+Builder;Creating+Intelligent+Systems"
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 # Yo Random Stranger Hassan Here
 
 Data Science major focused on AI, Machine Learning, intelligent systems, and modern application development.
