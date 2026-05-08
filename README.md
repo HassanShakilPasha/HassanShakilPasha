@@ -1,4 +1,4 @@
-<h1 align="center">Hassan Shakil Pasha</h1>
+<h1 align="center" style="background-color:#0a1628; color:#C9A66B; padding:18px 0; border-radius:8px;">Hassan Shakil Pasha</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -21,7 +21,7 @@ Building AI Systems, Intelligent Workflows & Modern Applications
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## 👨‍💻 About Me
+## About Me
 
 Data Science major focused on AI, Machine Learning, intelligent systems, and modern application development.
 
@@ -29,7 +29,7 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - **Hospital Detection & Classification** using ML (Databricks Dataset)
 - **Fake News Detection** using NLP & Machine Learning
@@ -42,7 +42,7 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=C9A66B"/>
@@ -66,7 +66,7 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## 💡 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -99,7 +99,7 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HassanShakilPasha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=C9A66B&icon_color=C9A66B&text_color=FFFFFF" alt="GitHub Stats"/>
@@ -114,7 +114,7 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## 🌱 Currently Learning & Interests
+## Currently Learning & Interests
 
 **Currently Learning:**
 - Flutter App Development
@@ -130,35 +130,21 @@ Artificial Intelligence • Machine Learning • Automation • Visualization �
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanshakilpasha/">
     <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/HassanShakilPasha">
-    <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C9A66B" alt="GitHub"/>
+  <a href="mailto:hassanshakilpasha@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=yahoo&logoColor=C9A66B" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HassanShakilPasha/HassanShakilPasha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🕹️ Arcade Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/main/assets/pacman.svg" alt="Pacman Animation"/>
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 </p>
 
-<h3 align="center">Thanks for stopping by! ⭐</h3>
+<h3 align="center">Thanks for stopping by!</h3>
