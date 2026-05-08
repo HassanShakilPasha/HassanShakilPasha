@@ -126,35 +126,46 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 ## GitHub Analytics
 
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanShakilPasha&theme=tokyonight" 
-    alt="GitHub Stats"
-  />
+## GitHub Analytics
 
-  <img 
-    height="170" 
-    src="https://streak-stats.demolab.com/?user=HassanShakilPasha&theme=tokyonight&hide_border=true&background=0B1120&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B" 
-    alt="GitHub Streak"
-  />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=HassanShakilPasha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=C9A66B&icon_color=C9A66B&text_color=FFFFFF"
+/>
+</td>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanShakilPasha&theme=tokyonight" 
-    alt="Top Languages"
-  />
+<td align="center">
+<img 
+  height="180em"
+  src="https://streak-stats.demolab.com?user=HassanShakilPasha&theme=tokyonight&hide_border=true&background=0B1120&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B"
+/>
+</td>
+</tr>
+</table>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanShakilPasha&theme=tokyonight" 
-    alt="Most Used Languages"
-  />
-</p>
+<br>
 
----
+<table align="center">
+<tr>
+<td align="center">
+<img 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanShakilPasha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=C9A66B&text_color=FFFFFF"
+/>
+</td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
+<td align="center">
+<img 
+  height="180em"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanShakilPasha&theme=tokyonight"
+/>
+</td>
+</tr>
+</table>
+
 
 ## Currently Learning & Interests
 
