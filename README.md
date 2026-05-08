@@ -1,4 +1,6 @@
-<h1 align="center" style="background-color:#0a1628; color:#C9A66B; padding:18px 0; border-radius:8px;">Hassan Shakil Pasha</h1>
+<h1 align="center" style="background-color:#0a1628; color:#C9A66B; padding:18px 0; border-radius:8px;">
+  Hassan Shakil Pasha
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,10 +10,16 @@
     />
   </a>
 </p>
-# Yo Random Stranger Hassan Here
+
 <h3 align="center">
 Building AI Systems, Intelligent Workflows & Modern Applications
 </h3>
+
+<p align="center">
+  <a href="https://portfolio-puce-two-zape7e683u.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=C9A66B"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HassanShakilPasha&label=Profile%20Views&color=0B1120&style=for-the-badge" alt="Profile Views"/>
@@ -72,25 +80,42 @@ Currently building scalable ML systems, intelligent automation workflows, visual
   <tr>
     <td width="50%">
       <h3>Hospital Detection & Classification System</h3>
-      <p>Machine learning system trained on Databricks healthcare datasets to analyze and classify hospital-related records using predictive analytics workflows.</p>
-      <p><strong>Tech Used:</strong> Python • Pandas • NumPy • Scikit-Learn • Databricks • Matplotlib</p>
+      <p>
+        Machine learning system trained on Databricks healthcare datasets to analyze and classify hospital-related records using predictive analytics workflows.
+      </p>
+      <p>
+        <strong>Tech Used:</strong> Python • Pandas • NumPy • Scikit-Learn • Databricks • Matplotlib
+      </p>
     </td>
     <td width="50%">
       <h3>Fake News Detection</h3>
-      <p>NLP-based misinformation detection pipeline leveraging supervised machine learning models and TF-IDF vectorization.</p>
-      <p><strong>Tech Used:</strong> Python • NLP • Scikit-Learn • Random Forest • Logistic Regression</p>
+      <p>
+        NLP-based misinformation detection pipeline leveraging supervised machine learning models and TF-IDF vectorization.
+      </p>
+      <p>
+        <strong>Tech Used:</strong> Python • NLP • Scikit-Learn • Random Forest • Logistic Regression
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>3D Symbolic Volume Visualizer</h3>
-      <p>Interactive mathematical visualization engine using SymPy and Plotly for symbolic geometry and 3D rendering.</p>
-      <p><strong>Tech Used:</strong> Python • SymPy • Plotly • NumPy</p>
+      <p>
+        Interactive mathematical visualization engine using SymPy and Plotly for symbolic geometry and 3D rendering.
+      </p>
+      <p>
+        <strong>Tech Used:</strong> Python • SymPy • Plotly • NumPy
+      </p>
     </td>
     <td width="50%">
       <h3>WhatsApp Automation System</h3>
-      <p>Twilio-powered automation workflow integrating vector search pipelines and structured messaging systems.</p>
-      <p><strong>Tech Used:</strong> Python • Twilio • APIs • LangChain</p>
+      <p>
+        Twilio-powered automation workflow integrating vector search pipelines and structured messaging systems.
+      </p>
+      <p>
+        <strong>Tech Used:</strong> Python • Twilio • APIs • LangChain
+      </p>
     </td>
   </tr>
 </table>
@@ -102,13 +127,29 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanShakilPasha&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=HassanShakilPasha&theme=tokyonight&hide_border=true&background=0B1120&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B" alt="GitHub Streak"/>
+  <img 
+    height="170" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanShakilPasha&theme=tokyonight" 
+    alt="GitHub Stats"
+  />
+
+  <img 
+    height="170" 
+    src="https://streak-stats.demolab.com/?user=HassanShakilPasha&theme=tokyonight&hide_border=true&background=0B1120&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B" 
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanShakilPasha&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanShakilPasha&theme=tokyonight" alt="Most Used Languages"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanShakilPasha&theme=tokyonight" 
+    alt="Top Languages"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanShakilPasha&theme=tokyonight" 
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -117,14 +158,14 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 ## Currently Learning & Interests
 
-**Currently Learning:**
+### Currently Learning
 - Flutter App Development
 - Advanced SQL & Query Optimization
 - Cloud AI Workflows
 - MLOps & AI Deployment
 - Data Engineering Pipelines
 
-**Interests:**
+### Interests
 Artificial Intelligence • Machine Learning • Automation • Visualization • NLP • Frontend UI/UX • Intelligent Systems
 
 ---
@@ -134,9 +175,14 @@ Artificial Intelligence • Machine Learning • Automation • Visualization �
 ## Connect With Me
 
 <p align="center">
+  <a href="https://portfolio-puce-two-zape7e683u.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=C9A66B" alt="Portfolio"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/hassanshakilpasha/">
     <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:hassanshakilpasha@yahoo.com">
     <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=yahoo&logoColor=C9A66B" alt="Email"/>
   </a>
@@ -145,15 +191,10 @@ Artificial Intelligence • Machine Learning • Automation • Visualization �
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=120&section=footer"
+    width="100%"
+  />
 </p>
 
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="60%"/>
-</p>
-
-
-
-<h3 align="center">Thanks for stopping by fam!</h3>
+<h3 align="center">Thanks for stopping by!</h3>
