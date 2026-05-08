@@ -131,15 +131,43 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 ## GitHub Analytics
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanShakilPasha&theme=tokyonight" />
-<img width="49%" src="https://streak-stats.demolab.com?user=HassanShakilPasha&theme=tokyonight&hide_border=true&background=0B1120&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B" />
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanShakilPasha&theme=tokyonight"
+width="100%" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanShakilPasha&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanShakilPasha&theme=tokyonight" />
+</td>
 
-</div>
+<td align="center" width="50%">
+
+<img 
+src="https://streak-stats.demolab.com?user=HassanShakilPasha&theme=tokyonight&hide_border=true&background=0B1120&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B"
+width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanShakilPasha&theme=tokyonight"
+width="100%" />
+
+</td>
+
+<td align="center" width="50%">
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanShakilPasha&theme=tokyonight"
+width="100%" />
+
+</td>
+</tr>
+</table>
 
 ## Currently Learning & Interests
 
