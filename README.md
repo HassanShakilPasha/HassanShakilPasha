@@ -148,12 +148,12 @@ Artificial Intelligence • Machine Learning • Automation • Visualization �
   <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 </p>
 
-## Flappy Bird
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="60%"/>
 </p>
 
-> **Note:** GitHub READMEs cannot run interactive games natively. To host the Flappy Bird game on your profile, deploy it as a [GitHub Pages](https://pages.github.com/) site and link to it here.
 
-<h3 align="center">Thanks for stopping by!</h3>
+
+<h3 align="center">Thanks for stopping by fam!</h3>
