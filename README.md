@@ -50,25 +50,52 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/SQL-0B1120?style=for-the-badge&logo=mysql&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Flutter-0B1120?style=for-the-badge&logo=flutter&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Databricks-0B1120?style=for-the-badge&logo=databricks&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0B1120?style=for-the-badge&logo=tensorflow&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Plotly-0B1120?style=for-the-badge&logo=plotly&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Streamlit-0B1120?style=for-the-badge&logo=streamlit&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/OpenCV-0B1120?style=for-the-badge&logo=opencv&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/Firebase-0B1120?style=for-the-badge&logo=firebase&logoColor=C9A66B"/>
-  <img src="https://img.shields.io/badge/LangChain-0B1120?style=for-the-badge&logo=chainlink&logoColor=C9A66B"/>
-</p>
+<div align="center">
+
+### 🔤 Languages
+
+![Python](https://img.shields.io/badge/Python-0B1120?style=for-the-badge&logo=python&logoColor=C9A66B)
+![SQL](https://img.shields.io/badge/SQL-0B1120?style=for-the-badge&logo=mysql&logoColor=C9A66B)
+![Dart](https://img.shields.io/badge/Dart-0B1120?style=for-the-badge&logo=dart&logoColor=C9A66B)
+![HTML5](https://img.shields.io/badge/HTML5-0B1120?style=for-the-badge&logo=html5&logoColor=C9A66B)
+![CSS3](https://img.shields.io/badge/CSS3-0B1120?style=for-the-badge&logo=css3&logoColor=C9A66B)
+
+### 🤖 AI / ML / Data Science
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0B1120?style=for-the-badge&logo=scikitlearn&logoColor=C9A66B)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1120?style=for-the-badge&logo=tensorflow&logoColor=C9A66B)
+![Pandas](https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=C9A66B)
+![NumPy](https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=C9A66B)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B1120?style=for-the-badge&logo=opencv&logoColor=C9A66B)
+![Plotly](https://img.shields.io/badge/Plotly-0B1120?style=for-the-badge&logo=plotly&logoColor=C9A66B)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B1120?style=for-the-badge&logo=streamlit&logoColor=C9A66B)
+![Databricks](https://img.shields.io/badge/Databricks-0B1120?style=for-the-badge&logo=databricks&logoColor=C9A66B)
+![LangChain](https://img.shields.io/badge/LangChain-0B1120?style=for-the-badge&logo=chainlink&logoColor=C9A66B)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B1120?style=for-the-badge&logo=jupyter&logoColor=C9A66B)
+
+### 🌐 Web & Backend
+
+![Streamlit](https://img.shields.io/badge/Streamlit_Apps-0B1120?style=for-the-badge&logo=streamlit&logoColor=C9A66B)
+![Firebase](https://img.shields.io/badge/Firebase-0B1120?style=for-the-badge&logo=firebase&logoColor=C9A66B)
+![REST API](https://img.shields.io/badge/REST_API-0B1120?style=for-the-badge&logo=fastapi&logoColor=C9A66B)
+![Twilio](https://img.shields.io/badge/Twilio-0B1120?style=for-the-badge&logo=twilio&logoColor=C9A66B)
+
+### 📱 Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-0B1120?style=for-the-badge&logo=flutter&logoColor=C9A66B)
+![Dart](https://img.shields.io/badge/Dart-0B1120?style=for-the-badge&logo=dart&logoColor=C9A66B)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=C9A66B)
+![GitHub](https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=C9A66B)
+![Docker](https://img.shields.io/badge/Docker-0B1120?style=for-the-badge&logo=docker&logoColor=C9A66B)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1120?style=for-the-badge&logo=visualstudiocode&logoColor=C9A66B)
+![Databricks](https://img.shields.io/badge/Databricks-0B1120?style=for-the-badge&logo=databricks&logoColor=C9A66B)
+
+</div>
 
 ---
 
@@ -123,11 +150,6 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-8701c88d-7f4e-4f60-9d11-6d6d87d2453c.gif" width="100%">
-
-
-
-
-
 
 ## GitHub Analytics
 
