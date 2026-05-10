@@ -59,13 +59,12 @@ Building AI Systems • Intelligent Workflows • Modern Applications
 
 <td width="40%">
 
-Data Science major focused on AI, Machine Learning, intelligent systems, and modern application development.
+Data Science major focused on AI, Machine Learning, Intelligent Systems, and Modern Application Development.
 
-Currently building scalable ML systems, intelligent automation workflows, visualization engines, and cross-platform applications.
+Currently building scalable ML systems, Intelligent Automation Workflows, Visualization Engines, and Cross-Platform Applications.
 
 P.S Huge Spider-Man fan.
 <br>
-
 ```yaml
 Focus:
   - Artificial Intelligence
@@ -73,7 +72,6 @@ Focus:
   - Automation
   - Data Visualization
   - Cross Platform Applications
-
 Currently Learning:
   - Agentic AI
   - MLOps
