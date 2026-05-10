@@ -144,7 +144,7 @@ Artificial Intelligence • Machine Learning • Agentic AI • Automation • D
     src="spiderman.png" 
     alt="Spider-Man Banner" 
     width="100%" 
-    height="150" 
+    height="100%" 
     style="object-fit: cover; border-radius: 8px;"
   />
 </p>
