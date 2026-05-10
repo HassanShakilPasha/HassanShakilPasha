@@ -153,6 +153,7 @@ Artificial Intelligence • Machine Learning • Agentic AI • Automation • D
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=120&section=footer"
     width="100%"
+    height="100%"
   />
 </p>
 
