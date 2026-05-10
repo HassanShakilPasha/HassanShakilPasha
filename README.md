@@ -56,7 +56,15 @@ Building AI Systems • Intelligent Workflows • Modern Applications
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="40%">
+
+Data Science major focused on AI, Machine Learning, intelligent systems, and modern application development.
+
+Currently building scalable ML systems, intelligent automation workflows, visualization engines, and cross-platform applications.
+
+P.S Huge Spider-Man fan.
+<br>
 
 ```yaml
 Focus:
@@ -71,41 +79,65 @@ Currently Learning:
   - MLOps
   - Data Engineering
 ```
-
 </td>
 
-<td width="0%" align="center">
+<td width="45%" align="center">
 
 <img 
-  src="spiderman.png" 
+  src="spiderman.png"
   width="100%"
-  height="100%"
+  height="120%"
 />
 
 </td>
+
 </tr>
 </table>
----
 
 ## Tech Stack
 
 <div align="center">
 
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-C1121F?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0D47A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-C1121F?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D47A1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-C1121F?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0D47A1?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C1121F?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D47A1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C1121F?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI / ML / Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D47A1?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-C1121F?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0D47A1?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-C1121F?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-C1121F?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0D47A1?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-C1121F?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D47A1?style=for-the-badge&logo=opencv&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-C1121F?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D47A1?style=for-the-badge&logo=streamlit&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-C1121F?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D47A1?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-C1121F?style=for-the-badge&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-C1121F?style=for-the-badge&logo=chainlink&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D47A1?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Mobile / Backend / Cloud
+
+![Flutter](https://img.shields.io/badge/Flutter-C1121F?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0D47A1?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-C1121F?style=for-the-badge&logo=fastapi&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-0D47A1?style=for-the-badge&logo=twilio&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-C1121F?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-0D47A1?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-C1121F?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
----
+
+</div>
 
 <h3 align="center" style="color:#C1121F;">
 Thanks for stopping by Random Stranger!
