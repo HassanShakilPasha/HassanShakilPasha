@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="spiderman.gif" width="300" style="border-radius: 10px;" alt="Spider-Man" />
+</p>
+
 <h1 align="center" style="background-color:#0a1628; color:#C9A66B; padding:18px 0; border-radius:8px;">
   Hassan Shakil Pasha
 </h1>
@@ -34,6 +38,8 @@ Building AI Systems, Intelligent Workflows & Modern Applications
 Data Science major focused on AI, Machine Learning, intelligent systems, and modern application development.
 
 Currently building scalable ML systems, intelligent automation workflows, visualization engines, and cross-platform applications.
+
+**P.S. I am a huge Spider-Man fan!** 🕸️🕷️
 
 ---
 
@@ -102,12 +108,9 @@ Currently building scalable ML systems, intelligent automation workflows, visual
 
 ### Currently Learning
 - Agentic AI & Intelligent Workflows
-- Data Analytics & Data Visualization Problems
+- Data Analytics & Visualization
 - Flutter App Development
-- Advanced SQL & Query Optimization
-- Cloud AI Workflows
-- MLOps & AI Deployment
-- Data Engineering Pipelines
+- MLOps & Data Engineering Pipelines
 
 ### Interests
 Artificial Intelligence • Machine Learning • Agentic AI • Automation • Data Visualization • NLP • Frontend UI/UX • Intelligent Systems
@@ -130,6 +133,20 @@ Artificial Intelligence • Machine Learning • Agentic AI • Automation • D
   <a href="mailto:hassanshakilpasha@yahoo.com">
     <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=yahoo&logoColor=C9A66B" alt="Email"/>
   </a>
+</p>
+
+---
+
+![Space Invaders](https://github.com/HassanShakilPasha/HassanShakilPasha/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img 
+    src="spiderman.png" 
+    alt="Spider-Man Banner" 
+    width="100%" 
+    height="150" 
+    style="object-fit: cover; border-radius: 8px;"
+  />
 </p>
 
 <p align="center">
