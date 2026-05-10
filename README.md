@@ -142,18 +142,16 @@ Artificial Intelligence • Machine Learning • Agentic AI • Automation • D
 <p align="center">
   <img 
     src="spiderman.png" 
-    alt="Spider-Man Banner" 
-    width="100%" 
-    height="100%" 
-    style="object-fit: cover; border-radius: 8px;"
+    alt="Spider-Man Poster" 
+    width="350" 
+    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=120&section=footer"
-   // width="100%"
-    height="100%"
+    width="100%"
   />
 </p>
 
