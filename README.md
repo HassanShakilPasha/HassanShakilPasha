@@ -14,12 +14,10 @@ box-shadow:0 0 25px rgba(193,18,31,0.45);
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=C1121F&background=0A0F1F00&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Engineer;AI+%26+Automation+Builder;Building+Intelligent+Systems"
-      alt="Typing SVG" 
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=C1121F&background=0A0F1F00&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Engineer;AI+%26+Automation+Builder;Building+Intelligent+Systems"
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
@@ -132,8 +130,6 @@ Currently Learning:
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-C1121F?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 </div>
 
