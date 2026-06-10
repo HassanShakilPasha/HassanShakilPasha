@@ -86,46 +86,50 @@ Currently Learning:
 
 ## Tech Stack
 
-<div align="center">
-
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-C1121F?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-0D47A1?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/SQL-C1121F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Dart-0D47A1?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/JavaScript-C1121F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-0D47A1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-C1121F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<table><tr>
+<td><img src="https://img.shields.io/badge/Python-C1121F?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+<td><img src="https://img.shields.io/badge/C++-0D47A1?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></td>
+<td><img src="https://img.shields.io/badge/SQL-C1121F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></td>
+<td><img src="https://img.shields.io/badge/Dart-0D47A1?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-C1121F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/></td>
+<td><img src="https://img.shields.io/badge/HTML5-0D47A1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
+<td><img src="https://img.shields.io/badge/CSS3-C1121F?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+</tr></table>
 
 ### AI / ML / Data Science
 
-<img src="https://img.shields.io/badge/TensorFlow-0D47A1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-C1121F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Pandas-0D47A1?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-C1121F?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/OpenCV-0D47A1?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Plotly-C1121F?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Streamlit-0D47A1?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/LangChain-C1121F?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Jupyter-0D47A1?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<table><tr>
+<td><img src="https://img.shields.io/badge/TensorFlow-0D47A1?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></td>
+<td><img src="https://img.shields.io/badge/Scikit--Learn-C1121F?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></td>
+<td><img src="https://img.shields.io/badge/Pandas-0D47A1?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></td>
+<td><img src="https://img.shields.io/badge/NumPy-C1121F?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></td>
+<td><img src="https://img.shields.io/badge/OpenCV-0D47A1?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></td>
+<td><img src="https://img.shields.io/badge/Plotly-C1121F?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></td>
+<td><img src="https://img.shields.io/badge/Streamlit-0D47A1?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+<td><img src="https://img.shields.io/badge/LangChain-C1121F?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></td>
+<td><img src="https://img.shields.io/badge/Jupyter-0D47A1?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr></table>
 
 ### Mobile / Backend / Cloud
 
-<img src="https://img.shields.io/badge/Flutter-C1121F?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Firebase-0D47A1?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-<img src="https://img.shields.io/badge/REST_API-C1121F?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/Twilio-0D47A1?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
-<img src="https://img.shields.io/badge/Databricks-C1121F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<table><tr>
+<td><img src="https://img.shields.io/badge/Flutter-C1121F?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></td>
+<td><img src="https://img.shields.io/badge/Firebase-0D47A1?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/></td>
+<td><img src="https://img.shields.io/badge/REST_API-C1121F?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/></td>
+<td><img src="https://img.shields.io/badge/Twilio-0D47A1?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/></td>
+<td><img src="https://img.shields.io/badge/Databricks-C1121F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></td>
+</tr></table>
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Git-0D47A1?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-C1121F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-
-</div>
+<table><tr>
+<td><img src="https://img.shields.io/badge/Git-0D47A1?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
+<td><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></td>
+<td><img src="https://img.shields.io/badge/Docker-C1121F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></td>
+<td><img src="https://img.shields.io/badge/VS_Code-0D47A1?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></td>
+</tr></table>
 
 <h3 align="center" style="color:#C1121F;">
 Thanks for stopping by Random Stranger!
